@@ -12,7 +12,17 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p align="left">
+<a href="https://twitter.com/@thetanishka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@thetanishka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thetanishkagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thetanishkagupta" height="30" width="40" /></a>
+<a href="https://instagram.com/thetanishkagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thetanishkagupta" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tanishka03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanishka03" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@a_190348010011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@a_190348010011" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thetanishkagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thetanishkagupta" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/1903480100113 coecs2a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="1903480100113 coecs2a" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/thetanishkagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thetanishkagupta" height="30" width="40" /></a>
+<a href="https://discord.gg/Tanishka | PSIT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tanishka | PSIT" height="30" width="40" /></a>
+</p>
 
 <br />
 
