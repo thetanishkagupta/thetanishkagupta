@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/thetanishkagupta/thetanishkagupta/blob/main/github.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Student👩‍🎓, Learner🏛, knowledgeable💡 and OverThinker😛!!
+## I'm a Student👩‍🎓, Learner🏛, knowledgeable💡 & OverThinker😛!
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning Data Structures And Algorithms
 - 💬 Ask me about ... Anything
