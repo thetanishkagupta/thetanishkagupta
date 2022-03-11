@@ -5,7 +5,7 @@
 
 ## I'm a Student👩‍🎓, Learner🏛, knowledgeable💡 & Overthinker😛
 - 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning Data Structures And Algorithms
+- 🌱 I’m currently improving my problem-solving skills
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, German)
