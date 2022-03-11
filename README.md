@@ -4,9 +4,9 @@
 
 
 ## I'm a Student👩‍🎓, Learner🏛, knowledgeable💡 & Overthinker😛
-- 🔭 I’m currently working on my skills
-- 🌱 I’m currently improving my problem-solving skills
-- 💬 Ask me about ... Anything
+- 🔭 I'm actively enhancing my skills.
+- 🌱 I’m currently improving my problem-solving abilities
+- 💬 Ask me about ... Anything(only professional)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, German)
 
