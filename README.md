@@ -23,7 +23,6 @@
 <a href="https://auth.geeksforgeeks.org/user/thetanishkagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thetanishkagupta" height="30" width="40" /></a>
 <a href="https://discord.gg/Tanishka | PSIT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tanishka | PSIT" height="30" width="40" /></a>
 </p>
-
 <br />
 
 ### Languages and Tools:
