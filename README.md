@@ -8,7 +8,8 @@
 - 🌱 I’m currently improving my problem-solving abilities
 - 💬 Ask me about ... Anything(only professional)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 3 languages ( English, Hindi, German)
+- ⚡ Trilingual: I speak 3 languages ( English, Hindi, German)
+- 👻 Fun Fact: I Believe in Ghosts ☠
 
 
 ### Talk with me, I am kinda awesome:
