@@ -9,7 +9,7 @@
 - 💬 Ask me about ... Anything(only professional)
 - 😄 Pronouns: She/Her
 - ⚡ Trilingual: I speak 3 languages ( English, Hindi, German)
-- 👻 Fun Fact: I Believe in Ghosts ☠
+- 👻 Fun Fact: I Believe in MAGIC ❄⭐
 
 
 ### Talk with me, I am kinda awesome:
