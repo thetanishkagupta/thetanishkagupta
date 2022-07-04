@@ -33,7 +33,7 @@
 <br />
 <br />
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thetanishkagupta&label=Profile%20views&color=0e75b6&style=flat" alt="thetanishkagupta"/> 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
